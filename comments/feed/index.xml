@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for India Tourism	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://srijitchakroborty.github.io/wordpress4/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://srijitchakroborty.github.io/wordpress4</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Feb 2023 14:00:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
